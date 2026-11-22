@@ -8,7 +8,7 @@ Trang portfolio cá nhân của **Lê Phan Hải Long (Full-Stack Developer)** �
 - **Light / Dark Mode**: Hỗ trợ giao diện Sáng/Tối, tự động lưu lựa chọn vào `localStorage` (`portfolio-theme`).
 - **Nội dung đầy đủ theo CV**:
   - **About / Hero**: Giới thiệu tổng quan, trạng thái sẵn sàng công việc, sao chép nhanh email và liên kết GitHub.
-  - **Experience**: Kinh nghiệm thực tập tại FPT Software (F-Corp-OS) và phần mở rộng hạ tầng AWS với Terraform.
+  - **Experience**: Kinh nghiệm thực tập tại FPT Software và phần mở rộng hạ tầng AWS với Terraform.
   - **Projects**: Chi tiết kiến trúc và các liên kết GitHub, Live Demo, Video Demo cho các dự án (*AI-Powered TOEIC Learning Platform*, *Social-Integrated Online Bookstore*).
   - **Skills**: Nhóm kỹ năng Languages, Backend, Frontend, Database & DevOps.
   - **Education & Awards**: Thông tin học vấn tại VKU, chứng chỉ và giải thưởng.
