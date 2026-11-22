@@ -3,7 +3,7 @@ import type { ContactInfo, Language, PortfolioContent } from '../types/portfolio
 export const CONTACT_INFO: ContactInfo = {
   name: 'Le Phan Hai Long',
   role: 'Full-Stack Developer',
-  location: 'Ngu Hanh Son, Da Nang',
+  location: 'Da Nang, Vietnam',
   phone: '0777519548',
   email: 'longlph.23it@gmail.com',
   githubUrl: 'https://github.com/longlephanhai',
